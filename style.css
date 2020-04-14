@@ -6,3 +6,8 @@ body {
   background: pink;
   color: white;
 }
+
+p {
+  color: green;
+  padding: 3em;
+}
